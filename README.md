@@ -18,3 +18,7 @@ Bring a laptop for the hands-on part of the workshop. Prior to the workshop, you
 
 Remember the password you created when you signed up for GitHub;
 you will need to type it into git during the hands-on part of the workshop.
+
+# Resources
+
+There is a lot of material online about git. One good place to start is the official [git book](https://git-scm.com/book/en/v2).
