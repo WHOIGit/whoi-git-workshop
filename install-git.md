@@ -6,7 +6,7 @@ See git's [official installation guide](https://git-scm.com/book/en/v2/Getting-S
 
 ## For Windows
 
-There are several ways to install git on Windows. It is strongly recommended to install
+There are several ways to install git on Windows. For the workshop, you should install
 "Git for Windows". First, [download it](https://git-for-windows.github.io/), and run the installer.
 
 When installing, you will encounter the following screen. Select "checkout as-is, commit unix-style endings":
