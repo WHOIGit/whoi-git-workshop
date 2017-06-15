@@ -14,4 +14,4 @@ The workshop requires registration. To register, fill out [the registration form
 Bring a laptop for the hands-on part of the workshop. Prior to the workshop, you should do the following (if you haven't already):
 
 * [Sign up for a free GitHub account](https://github.com/join)
-* Install git on your laptop
+* [Install git on your laptop](https://github.com/joefutrelle/whoi-git-workshop/blob/master/install-git.md)
