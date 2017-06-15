@@ -15,3 +15,6 @@ Bring a laptop for the hands-on part of the workshop. Prior to the workshop, you
 
 * [Sign up for a free GitHub account](https://github.com/join)
 * [Install git on your laptop](install-git.md)
+
+Remember the password you created when you signed up for GitHub;
+you will need to type it into git during the hands-on part of the workshop.
