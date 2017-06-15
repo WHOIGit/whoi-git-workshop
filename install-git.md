@@ -11,7 +11,7 @@ There are several ways to install git on Windows. For the workshop, you should i
 
 When installing, you will encounter the following screen. Select "checkout as-is, commit unix-style endings":
 
-(FIXME need picture here)
+![install screen](gitForWindowsInstallScreen.png)
 
 After installing it, you will have an application called Git Bash, which we will be using for the workshop.
 
