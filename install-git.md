@@ -2,7 +2,7 @@
 
 ## For Mac or Linux
 
-See git's [official installation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+See git's [official installation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 ## For Windows
 
