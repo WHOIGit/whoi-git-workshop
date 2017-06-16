@@ -13,7 +13,10 @@ When installing, you will encounter the following screen. Select "checkout as-is
 
 ![install screen](gitForWindowsInstallScreen.png)
 
-After installing it, you will have an application called Git Bash, which we will be using for the workshop.
+Don't worry if you've already installed Git for Windows and accepted the default setting; it should not cause
+any problems.
+
+After installing Git for Windows, you will have an application called Git Bash, which we will be using for the workshop.
 
 During the hands-on, you will be editing files. Instead of using Notepad, you should use an editor that is
 more appropriate for code, such as [Notepad++](https://notepad-plus-plus.org/) (free) or
