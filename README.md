@@ -21,5 +21,5 @@ you will need to type it into git during the hands-on part of the workshop.
 
 # Resources
 
-There is a lot of material online about git. A good reference is the [git book](https://git-scm.com/book/en/v2).
+There is a lot of material online about git. A good reference is the [official git book](https://git-scm.com/book/en/v2).
 There are quite a few guides on YouTube as well, such as this [Git and GitHub Crash Course for Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc).
