@@ -5,6 +5,10 @@ Woods Hole Oceanographic Institution on June 21, 2017 at 3:30-5pm in Clark 507.
 
 The workshop organizer is Joe Futrelle (jfutrelle at whoi dot edu)
 
+# Workshop materials
+
+* [Slide presentation](https://docs.google.com/presentation/d/1fWnXrCX9OhqD9FN1Zt9YikmiyjBDRoOR2yxKpeK9Auc/pub?start=false&loop=false&delayms=3000)
+
 # Registration
 
 The workshop requires registration. To register, fill out [the registration form](http://tinyurl.com/WHOIGitHubworkshop).
