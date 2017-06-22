@@ -11,6 +11,8 @@ The workshop organizer is Joe Futrelle (jfutrelle at whoi dot edu)
 
 # Registration
 
+Registration is closed for the June 21 workshop.
+
 The workshop requires registration. To register, fill out [the registration form](http://tinyurl.com/WHOIGitHubworkshop).
 
 # Prerequisites
